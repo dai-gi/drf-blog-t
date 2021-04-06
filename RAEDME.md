@@ -1,0 +1,1 @@
+# drf-njs-blog-tutorial
